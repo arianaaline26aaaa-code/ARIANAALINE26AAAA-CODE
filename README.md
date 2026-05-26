@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Ariana! 👋
 
-<!--
-**arianaaline26aaaa-code/ARIANAALINE26AAAA-CODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre Mim
+Estudante focada na área de **Redes de Computadores & Segurança da Informação**. Apaixonada por tecnologia, automação e defesa cibernética. Nas horas vagas, dividida entre uma boa playlist de Rock, muito BTS e maratonar doramas. 🎸🇰🇷💜
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+* **Redes:** Cisco Packet Tracer, Protocolos de Roteamento, VLANs.
+* **Segurança:** Conceitos de CyberSec, Firewalls, Análise de Tráfego.
+* **Linguagens:** Python (Automação de Redes).
+
+---
+
+### 📊 Meu Loop Diário
+```python
+while True:
+    aprender_algo_novo()
+    analisar_pacotes()
+    ouvir_bts() 💜
